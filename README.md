@@ -1,8 +1,8 @@
 <div style="font-family: 'Times New Roman', Times, serif;">
 
-<h1><I>ECOMFY ONLINE RETURN BEHAVIOUR ANALYSIS – 2025</I></h1>
+<h1>ECOMFY ONLINE RETURN ANALYSIS – 2025</h1>
 
-<h2><center>GOAL TO ACHIEVE</center></h2>
+<h2>Introduction</h2>
 
 <p>
 Ecomfy Online Return Analysis – 2025 is a Business Intelligence project focused on evaluating e-commerce sales and return behavior. The objective of the project is to identify revenue impact caused by product returns and analyze category-wise performance. The dashboard provides actionable insights to support data-driven business decisions and profitability improvement.
@@ -11,8 +11,8 @@ Ecomfy Online Return Analysis – 2025 is a Business Intelligence project focuse
 <br>
 
 <!-- Upload your dashboard image to GitHub and replace the file name below -->
-<img src="< img width="1000" height="500" alt="Screenshot 2026-02-24 191042" src="https://github.com/user-attachments/assets/e3ef80cd-cd30-4cc8-8a28-cf4670628651" />
-
+<img src="<img width="1239" height="700" alt="Screenshot 2026-02-24 191042" src="https://github.com/user-attachments/assets/8bf2d65f-074d-4d27-93ac-af453793acc0" />
+" alt="Ecomfy Dashboard" width="850"/>
 
 <br><br>
 
