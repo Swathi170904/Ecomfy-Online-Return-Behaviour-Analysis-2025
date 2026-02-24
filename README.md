@@ -2,7 +2,7 @@
 
 <h1><I>ECOMFY ONLINE RETURN BEHAVIOUR ANALYSIS – 2025</I></h1>
 
-<h2>Introduction</h2>
+<h2><center>GOAL TO ACHIEVE</center></h2>
 
 <p>
 Ecomfy Online Return Analysis – 2025 is a Business Intelligence project focused on evaluating e-commerce sales and return behavior. The objective of the project is to identify revenue impact caused by product returns and analyze category-wise performance. The dashboard provides actionable insights to support data-driven business decisions and profitability improvement.
