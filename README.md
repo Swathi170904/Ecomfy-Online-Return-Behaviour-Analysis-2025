@@ -11,8 +11,8 @@ Ecomfy Online Return Analysis – 2025 is a Business Intelligence project focuse
 <br>
 
 <!-- Upload your dashboard image to GitHub and replace the file name below -->
-<img src="<img width="1239" height="700" alt="Screenshot 2026-02-24 191042" src="https://github.com/user-attachments/assets/e3ef80cd-cd30-4cc8-8a28-cf4670628651" />
-" alt="Ecomfy Dashboard" width="850"/>
+<img src="<img width="1000" height="500" alt="Screenshot 2026-02-24 191042" src="https://github.com/user-attachments/assets/e3ef80cd-cd30-4cc8-8a28-cf4670628651" />
+
 
 <br><br>
 
@@ -24,7 +24,7 @@ The project began with understanding the business objective of analyzing sales p
 
 <br>
 
-<h2>2. Data Extraction</h2>
+<h2>2. Data Extraction from SQL</h2>
 
 <p>
 The required dataset was extracted from a structured SQL database containing order details, product information, customer records, and return data. SQL queries were used to retrieve relevant tables necessary for analysis. The extracted data ensured consistency and reliability for further processing.
