@@ -11,7 +11,8 @@ Ecomfy Online Return Analysis – 2025 is a Business Intelligence project focuse
 <br>
 
 <!-- Upload your dashboard image to GitHub and replace the file name below -->
-<img src="dashboard_screenshot.png" alt="Ecomfy Dashboard" width="850"/>
+<img src="<img width="1239" height="700" alt="Screenshot 2026-02-24 191042" src="https://github.com/user-attachments/assets/e3ef80cd-cd30-4cc8-8a28-cf4670628651" />
+" alt="Ecomfy Dashboard" width="850"/>
 
 <br><br>
 
